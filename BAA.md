@@ -67,5 +67,4 @@ a)	By executing a Cover Page and entering into this BAA, the parties incorporate
 b)	If a provision of this BAA (including the Cover Page) is contrary to a provision of the Main Agreement, the provision of this BAA will control. Otherwise, this BAA will be construed under, and in accordance with, the terms of the Main Agreement.
 c)	The parties acknowledge that any liability provisions of the Main Agreement apply to this BAA.
 6.3.	No Third-Party Beneficiaries. There are no third-party beneficiaries to this BAA.
-6.4.	Independent Contractors. The parties are independent contractors, not agents, partners or joint venturers. Neither party will represent itself as the agent or legal representative of the other for any purpose.   
-![image](https://github.com/user-attachments/assets/989fdac2-88c1-4651-bc97-bee655454ce9)
+6.4.	Independent Contractors. The parties are independent contractors, not agents, partners or joint venturers. Neither party will represent itself as the agent or legal representative of the other for any purpose. 
