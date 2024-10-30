@@ -4,25 +4,45 @@ This Bonterms Business Associate Agreement (Version 1.0) (“**BAA**”) is a se
 
 **1.	Definitions.**  
 1.1.	“**Breach**”, “**Covered Entity**”, “**Designated Record Set**”, “**Disclosure**”, “**Individual**”, “**Required by Law**”, “**Secretary**”, “**Security Incident**”, “**Unsecured PHI**”, “**Use**”, and any other terms defined in the HIPAA Rules, whether capitalized or not, have the meaning ascribed to such terms in the HIPAA Rules unless otherwise specified.
+
 1.2.	“**Additional Terms**” means any additions to or modifications of this BAA that the parties specify on a Cover Page. 
+
 1.3.	“**Business Associate**” is identified on the Cover Page. 
+
 1.4.	“**BAA Effective Date**” is specified on the Cover Page.
+
 1.5.	“**Cover Page**” means a separate document executed by Customer and Business Associate which specifies the Key Terms and any Additional Terms and causes them to enter into this BAA.
+
 1.6.	“**Customer**” is identified on the Cover Page. 
+
 1.7.	“**Data Disposition Period**” is defined in Section 5.2.
+
 1.8.	“**HIPAA**” means the Health Insurance Portability and Accountability Act of 1996, and implementing regulations.
+
 1.9.	“**HIPAA Rules**” means the Privacy Rule and Security Rule.
+
 1.10.	“**HITECH Act**” means the Health Information Technology for Economic and Clinical Health Act, codified at 42 U.S.C. §§ 17921–17954, and implementing regulations.   
+
 1.11.	“**HHS**” means the Department of Health and Human Services.
+
 1.12.	“**Key Terms**” means the BAA Effective Date and Main Agreement. 
+
 1.13.	“**Main Agreement**” means the separate agreement under which Business Associate is providing a service to Customer to which this BAA relates.  
+
 1.14.	“**Privacy Rule**” means the standards for permissible uses and disclosures of Protected Health Information codified at 45 C.F.R. Part 160 and Subparts A and E of Part 164. 
+
 1.15.	“**Protected Health Information**” or “**PHI**” means protected health information or electronic protected health information (as such terms are defined in the HIPAA Rules) that Business Associate creates, receives, maintains, or transmits on behalf of Customer in connection with activities under the Main Agreement.  
+
 1.16.	“**Response Period**” means ten days.
+
 1.17.	“**Safeguards**” is defined in Section 3.2(a).
+
 1.18.	“**Security Incident**” is defined in the HIPAA Rules.
+
 1.19.	“**Security Rule**” means the standards for security of Protected Health Information codified at 45 C.F.R. Part 160 and Subparts A and C of Part 164.
+
 1.20.	“**Subcontractor**” is defined in Section 3.7.
+
 1.21.	“**Unsuccessful Security Incident**” means an attempted but failed Security Incident involving PHI or a Business Associate’s information system containing PHI, such as pings or other broadcast attacks on a firewall, denial of service attacks, port scans, or unsuccessful login attempts, or interception of encrypted information where the key is not compromised, or any combination of the above.
 
 **2.	Role of the Parties.** Business Associate provides a service to Customer under the Main Agreement which may involve creating, receiving, maintaining, or transmitting PHI.
