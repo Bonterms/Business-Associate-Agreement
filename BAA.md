@@ -2,7 +2,8 @@
 This Bonterms Business Associate Agreement (Version 1.0) (“**BAA**”) is a set of standard terms entered into between Business Associate and Customer by executing a Cover Page.
 
 
-**1.	Definitions.**  
+**1.	Definitions.**
+
 1.1.	“**Breach**”, “**Covered Entity**”, “**Designated Record Set**”, “**Disclosure**”, “**Individual**”, “**Required by Law**”, “**Secretary**”, “**Security Incident**”, “**Unsecured PHI**”, “**Use**”, and any other terms defined in the HIPAA Rules, whether capitalized or not, have the meaning ascribed to such terms in the HIPAA Rules unless otherwise specified.
 
 1.2.	“**Additional Terms**” means any additions to or modifications of this BAA that the parties specify on a Cover Page. 
@@ -45,7 +46,7 @@ This Bonterms Business Associate Agreement (Version 1.0) (“**BAA**”) is a se
 
 1.21.	“**Unsuccessful Security Incident**” means an attempted but failed Security Incident involving PHI or a Business Associate’s information system containing PHI, such as pings or other broadcast attacks on a firewall, denial of service attacks, port scans, or unsuccessful login attempts, or interception of encrypted information where the key is not compromised, or any combination of the above.
 
-**2.	Role of the Parties.** Business Associate provides a service to Customer under the Main Agreement which may involve creating, receiving, maintaining, or transmitting PHI.
+**2.	Role of the Parties.** Business Associate provides a service to Customer under the **Main Agreement** which may involve creating, receiving, maintaining, or transmitting PHI.
 
 **3.	Obligations of Business Associate.**
 
@@ -61,7 +62,7 @@ This Bonterms Business Associate Agreement (Version 1.0) (“**BAA**”) is a se
 
 3.2.	Adequate Safeguards for PHI.
 
-(a)	Business Associate will implement and maintain appropriate safeguards designed to prevent the Use or Disclosure of PHI in any manner other than as permitted by this BAA (“Safeguards”).
+(a)	Business Associate will implement and maintain appropriate safeguards designed to prevent the Use or Disclosure of PHI in any manner other than as permitted by this BAA (“**Safeguards**”).
 
 (b)	Safeguards will include administrative, physical, and technical safeguards that reasonably and appropriately protect the confidentiality, integrity, and availability of any PHI that Business Associate creates, receives, maintains, or transmits on behalf of Customer.
 
@@ -75,7 +76,7 @@ This Bonterms Business Associate Agreement (Version 1.0) (“**BAA**”) is a se
  
 (c)	Breach of Unsecured PHI. 
 
-(i) Business Associate will report to Customer any Breach of Unsecured PHI (“Breach Report”) of which it becomes aware without unreasonable delay, but no later than the Response Period following Business Associate becoming aware of the Breach of Unsecured PHI.
+(i) Business Associate will report to Customer any Breach of Unsecured PHI (“**Breach Report**”) of which it becomes aware without unreasonable delay, but no later than the Response Period following Business Associate becoming aware of the Breach of Unsecured PHI.
 
 (ii) Each Breach Report, to the extent possible, will include the identification of each Individual whose Unsecured PHI has been or is reasonably believed to have been Breached and other information regarding the Breach as reasonably requested by Customer. 
 
@@ -91,7 +92,7 @@ This Bonterms Business Associate Agreement (Version 1.0) (“**BAA**”) is a se
 
 3.6.	Accounting of Disclosures. Business Associate will document Business Associate’s Disclosures of PHI and provide such information to Customer as necessary to permit Customer to respond to a request by an Individual for an accounting of Disclosures of PHI in accordance with 45 CFR Section 164.528 and Section 13405(c) of Title XII, Subtitle D of the HITECH Act.  
 
-3.7.	Subcontractors. Business Associate may Disclose PHI to one or more subcontractors (each, a “Subcontractor”), and may allow a Subcontractor to create, receive, maintain, or transmit PHI on its behalf, provided that Business Associate executes a written agreement obligating each such Subcontractor to comply with the same restrictions and conditions that apply to Business Associate with respect to the PHI.
+3.7.	Subcontractors. Business Associate may Disclose PHI to one or more subcontractors (each, a “**Subcontractor**”), and may allow a Subcontractor to create, receive, maintain, or transmit PHI on its behalf, provided that Business Associate executes a written agreement obligating each such Subcontractor to comply with the same restrictions and conditions that apply to Business Associate with respect to the PHI.
 
 3.8.	Agreement to Mitigate. Business Associate will mitigate, to the extent practicable, any harmful effect that is known to Business Associate of a Use or Disclosure of PHI by Business Associate in violation of this BAA. 
 
@@ -103,7 +104,7 @@ This Bonterms Business Associate Agreement (Version 1.0) (“**BAA**”) is a se
  
 **4.	Obligations of Customer.**
 
-4.1.	Safeguards. Customer is responsible for implementing appropriate privacy and security safeguards, including the privacy and security safeguards required of Customer under the Main Agreement, in order to protect its PHI in accordance with the HIPAA Rules.
+4.1.	Safeguards. Customer is responsible for implementing appropriate privacy and security safeguards, including the privacy and security safeguards required of Customer under the **Main Agreement**, in order to protect its PHI in accordance with the HIPAA Rules.
 
 4.2.	Notice of Privacy Practices. Customer will inform Business Associate of any limitation in its notice of privacy practices adopted in accordance with the Privacy Rule, to the extent that such limitation may affect Business Associate’s Use or Disclosure of PHI.
 
@@ -113,7 +114,7 @@ This Bonterms Business Associate Agreement (Version 1.0) (“**BAA**”) is a se
 
 **5.	Term and Termination.** 
 
-5.1.	Duration of BAA. This BAA commences on the BAA Effective Date and terminates upon expiration or termination of the Main Agreement.
+5.1.	Duration of BAA. This BAA commences on the **BAA Effective Date** and terminates upon expiration or termination of the **Main Agreement**.
 
 5.2.	Disposition of PHI Upon Termination or Expiration. Within 60 days after expiration or earlier termination of this BAA (“Data Disposition Period”), Business Associate will, if feasible, return or destroy all PHI it still maintains in any form and retain no copies of such information or, if such return or destruction is not feasible, extend the protections of this BAA and limit further Uses and Disclosures of such PHI to those purposes that make the deletion infeasible.  
 
@@ -123,9 +124,9 @@ This Bonterms Business Associate Agreement (Version 1.0) (“**BAA**”) is a se
 
 6.2.	Relationship to Main Agreement. 
 
-(a)	By executing a Cover Page and entering into this BAA, the parties incorporate this BAA (including the Cover Page) into the Main Agreement. 
+(a)	By executing a Cover Page and entering into this BAA, the parties incorporate this BAA (including the Cover Page) into the **Main Agreement**. 
 
-(b)	If a provision of this BAA (including the Cover Page) is contrary to a provision of the Main Agreement, the provision of this BAA will control. Otherwise, this BAA will be construed under, and in accordance with, the terms of the Main Agreement.
+(b)	If a provision of this BAA (including the Cover Page) is contrary to a provision of the **Main Agreement**, the provision of this BAA will control. Otherwise, this BAA will be construed under, and in accordance with, the terms of the **Main Agreement**.
 
 (c)	The parties acknowledge that any liability provisions of the Main Agreement apply to this BAA.
 
