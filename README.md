@@ -1,7 +1,7 @@
 # Business Associate Agreement (BAA)
 
 ## About Bonterms
-[Bonterms](https://bonterms.com/) is simplifying commercial contracting through Standard Agreements. Our enterprise Standard Agreements let the parties start from a balanced foundation and negotiate by Cover Page, not redlines. The Bonterms Platform leverages our Standard Agreements to take collaborative dealmaking to the next level. Bonterms is lawyer-led and funded by XYZ Capital and Wilson Sonsini.
+[Bonterms](https://bonterms.com/) is simplifying commercial contracting through Standard Agreements. Our [Standard Agreements](https://bonterms.com/#standard-agreements) let the parties start from a balanced foundation and negotiate by Cover Page, not redlines. The [Bonterms Platform](https://bonterms.com/platform/) leverages our Standard Agreements to take collaborative dealmaking to the next level. Bonterms is lawyer-led and funded by XYZ Capital and Wilson Sonsini.
 
 ## How the BAA was Created
 The BAA was drafted by the [Bonterms Standard Agreement Committee](https://bonterms.com/committee/). The BAA went through nine major drafts and multiple meetings, surveys and discussions over seven months.
